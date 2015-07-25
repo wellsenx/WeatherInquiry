@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\workspace-android\_projects\WeatherInquiry\app\build\intermediates\pre-dexed\debug\gson-2.3.1-b871dc0708004d951dd5c7391e9ffb1bc707ed50.jar" />
+    </item>
+    <item
+        jar="D:\workspace-android\_projects\WeatherInquiry\app\libs\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="D:\workspace-android\_projects\WeatherInquiry\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-d5f276cff1529a81be4ca8327bf91f324a970fb1.jar" />
+    </item>
+
+</items>
